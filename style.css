@@ -1,0 +1,29 @@
+.btn{
+    border-radius: 0%;
+    border: 1;
+    font-size: 1.8rem;
+    font-weight: 600;
+    padding: 2rem 3rem;
+    text-transform: uppercase;
+    white-space: initial;
+    cursor: pointer;
+}
+.btn--primary1{
+    background-color: blue;
+}
+.btn--primary1:hover{
+    background: green;
+}
+.btn--primary1:active{
+    background: red;
+}
+.btn--primary2{
+    background: lightblue;
+}
+
+.btn--primary2:hover{
+    background: yellow;
+}
+.btn--primary2:active{
+    background: black;
+}
